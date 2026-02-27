@@ -1,3 +1,6 @@
+@import url("./auto-layout.css");
+@import url("./components/table.css");
+
 :root {
 	color-scheme: light;
 

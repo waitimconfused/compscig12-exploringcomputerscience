@@ -1,0 +1,124 @@
+table {
+	position: relative;
+	left: 50%;
+	translate: -50% 0;
+	
+	--border-size: 1px;
+	--border-color: #888888;
+	--alternating-fill: #F3F3F3;
+	
+	border-collapse: collapse;
+}
+
+@media print {
+	table {
+		--border-size: 2px;
+	}
+}
+
+table.border {
+	border: var(--border-size) solid var(--border-color);
+}
+
+table:not(:first-child) {
+	margin-top: 16px;
+}
+table:not(:last-child) {
+	margin-bottom: 16px;
+}
+
+table thead tr:not(:last-child),
+table thead:not(:last-child) tr {
+	border-bottom: var(--border-size) solid var(--border-color);
+}
+
+table tbody tr:not(:last-child) {
+	border-bottom: var(--border-size) solid var(--border-color);
+}
+
+table td:not(:last-child) {
+	border-right: var(--border-size) solid var(--border-color);
+}
+
+table th:not(:last-child) {
+	border-right: var(--border-size) solid var(--border-color);
+}
+
+table td, th {
+	padding: 8px;
+	font-weight: inherit;
+	text-align: left;
+	vertical-align: top;
+}
+
+
+
+table.row thead tr:not(:last-child),
+table.row thead:not(:last-child) tr {
+	border-bottom: var(--border-size) solid var(--border-color);
+}
+
+table.row tbody tr:not(:last-child) {
+	border-bottom: var(--border-size) solid var(--border-color);
+}
+
+table.row td:not(:last-child) {
+	border-right: var(--border-size) dashed var(--border-color);
+}
+
+table.row th:not(:last-child) {
+	border-right: var(--border-size) dashed var(--border-color);
+}
+
+table.row tr:nth-child(even) {
+	background: var(--alternating-fill);
+}
+
+
+
+table.column thead tr:not(:last-child),
+table.column thead:not(:last-child) tr {
+	border-bottom: var(--border-size) dashed var(--border-color);
+}
+
+table.column tbody tr:not(:last-child) {
+	border-bottom: var(--border-size) dashed var(--border-color);
+}
+
+table.column td:not(:last-child) {
+	border-right: var(--border-size) solid var(--border-color);
+}
+
+table.column th:not(:last-child) {
+	border-right: var(--border-size) solid var(--border-color);
+}
+
+table.column td:nth-child(even),
+table.column th:nth-child(even) {
+	background: var(--alternating-fill);
+}
+
+
+
+table.row.column thead tr:not(:last-child),
+table.row.column thead:not(:last-child) tr {
+	border-bottom: var(--border-size) solid var(--border-color);
+}
+
+table.row.column tbody tr:not(:last-child) {
+	border-bottom: var(--border-size) solid var(--border-color);
+}
+
+table.row.column td:not(:last-child) {
+	border-right: var(--border-size) solid var(--border-color);
+}
+
+table.row.column th:not(:last-child) {
+	border-right: var(--border-size) solid var(--border-color);
+}
+
+table.row.column tr:nth-child(even),
+table.row.column td:nth-child(even),
+table.row.column th:nth-child(even) {
+	background: transparent;
+}
