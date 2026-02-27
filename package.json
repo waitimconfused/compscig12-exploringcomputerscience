@@ -1,0 +1,20 @@
+{
+	"name": "compscig12-exploringcomputerscience",
+	"version": "1.0.0",
+	"description": "Individually research up to 3 collaborative research areas using a recognized industry publication. Investigate a topic in theoretical computer science. Make webpages to report the information. Use Git / GitHub to manage project. CSS is not necessary, but HTML formatting (titles, headings, paragraphs) are needed.",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/waitimconfused/compscig12-exploringcomputerscience.git"
+	},
+	"license": "ISC",
+	"author": "",
+	"type": "commonjs",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"dependencies": {
+		"@types/node": "^25.3.2",
+		"typescript": "^5.9.3"
+	}
+}
