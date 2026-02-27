@@ -1,0 +1,90 @@
+# Exploring Computer Science (HTML Review)
+
+## Outline
+
+Individually research up to 3 collaborative research areas
+using a recognized industry publication. Investigate a topic
+in theoretical computer science. Make webpages to report the
+information. Use Git / GitHub to manage project. CSS is not necessary, but HTML formatting (titles, headings, paragraphs) are needed.
+
+## Collaborative Research Areas
+
+You must use the Association of Computing Machinists (ACM) Digital Library at [ACM Digital Library](https://dl.acm.org/) (search for free articles but may need to register with a free account using FAKE personally identifiable information) or the Institute of Electrical and Electronics Engineers (IEEE) Xplore digital library at [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp) (filtering for Open Access Only articles) for your collaborative research areas. Hint: Use AI to help you summarize the articles so you can see if it has the information you need.
+
+### Details
+
+For each collaborative research area, explain
+
+- How the collaborative research area uses computer science
+- A positive impact of the collaborative research area on a society/culture around the world
+- A negative impact of the collaborative research area on a society/culture around the world,
+
+Examples of collaborative research areas include (but are not limited to):
+
+- Bioinformatics
+- Geology/Geomatics/Geoinformatic
+- Economics
+- Linguistics
+- Health Informatics
+- Climatology
+- Sociology
+- Banking
+- Retail
+- Robot
+- Agriculture/Farming
+- Art
+- Music
+- Fashion
+- Accounting
+- Cars
+- Drones
+- Planes
+- Sports
+- Finance
+
+## Theoretical Computer Science
+
+Theoretical computer science studies mathematical and abstract areas of computer science. Here is list of topics
+https://en.wikipedia.org/wiki/Theoretical_computer_science
+
+### Details
+
+Write 400 words explaining what the theoretical computer science topic is about. Give examples of how the topic has been applied to specific software. Create a webpage to present your information. Use multimedia elements like images, embedded videos, and links to sources.
+
+Theoretical computer science topics include (but are not limited to):
+
+- Algorithms
+- Data structures
+- Computational complexity
+- Parallel and distributed computation
+- Probabilistic computation
+- Quantum computation
+- Automata theory
+- Information theory
+- Cryptography
+- Program semantics and verification
+- Algorithmic game theory
+- Machine learning
+- Computational biology
+- Computational economics
+- Computational geometry
+- Computational number theory and algebr
+
+## Managing This Project
+
+This is an individual project.
+
+You must use Git / GitHub to manage your code.
+Make sure to commit your work at numerous logical times including:
+
+- Creating the original files
+- Completion of each of your collaborative research areas
+- Completion of your theoretical computer science topic
+
+## Marking Rubric (Total Weight 5)
+
+| Label | Level 1 | Level 2 | Level 3 | Level 4 |
+|---------|---------|---------|---------|---------|
+| **D4**: Exploring Computer Science Research and report on different areas of research in computer science, and careers related to computer science. Weight: 4 | Research and describe 1 collaborative research areas between computer science and other fields using information found in industry publications. Write about 100 words of detail in total for the research areas The amount of detail leaves out some important details. | Research and describes 2 collaborative research areas between computer science and other fields using information found in industry publications. Write about 200 words of detail in total for the research areas The amount of detail leaves out some important details. | Research and describes 3 collaborative research areas between computer science and other fields using information found in industry publications. Write about 400 words of detail in total for the 3 research areas It gives a good amount of detail. Details are supported with screenshots from the research publication in a webpage. | Research and describes 3 collaborative research areas between computer science and other fields using information found in industry publications. Write about 500-600 words of detail in total for the 3 research areas It gives an excellent amount of detail. Details are supported with screenshots from the research publication in a webpage. |
+| See **D4** (above) | Investigate a topic in theoretical computer science with a low level of detail (100 quality words) Report is a website with multimedia including Images, Videos, Links to source(s) | Investigate a topic in theoretical computer science with a satisfactory level of detail (200 quality words) Report is a website with multimedia including Images, Videos, Links to source(s) | Investigate a topic in theoretical computer science with an good level of detail (300 quality words) Report is a website with multimedia including Images, Videos, Links to source(s) | Investigate a topic in theoretical computer science with an excellent level of detail (400 quality words) Report is a website with multimedia including Images, Videos, Links to source(s)
+| *Project Management* **B1**. Demonstrate the ability to manage the software development process effectively, through all of its stages – planning, development, production, and closing; Weight: 1 | Uses Git/GitHub to stage and commit/push changes to a repository at some point of the project | Uses Git/GitHub to stage and commit/push changes to a repository at different stages of the project | Uses Git/GitHub to stage and commit/push changes to a repository at several logical stages of the project | Uses Git/GitHub to stage and commit/push changes to a repository at all or almost all logical stages of the project
